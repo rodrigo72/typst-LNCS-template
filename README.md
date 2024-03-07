@@ -1,4 +1,4 @@
-# Typst LNCS Tempate
+# Typst LNCS Template
 
 A simple Typst LNCS (Lecture Notes in Computer Science) template.
 
